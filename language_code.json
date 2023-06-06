@@ -1,0 +1,462 @@
+{
+  "6": {
+    "code": "af-ZA",
+    "language": "Afrikaans"
+  },
+  "12": {
+    "code": "sq-AL",
+    "language": "Albanian"
+  },
+  "19": {
+    "code": "am-ET",
+    "language": "Amharic"
+  },
+  "39": {
+    "code": "ar-SA",
+    "language": "Arabic"
+  },
+  "49": {
+    "code": "hy-AM",
+    "language": "Armenian"
+  },
+  "51": {
+    "code": "as-IN",
+    "language": "Assamese"
+  },
+  "59": {
+    "code": "az-Latn-AZ",
+    "language": "Azerbaijani (Latin)"
+  },
+  "67": {
+    "code": "bn-BD",
+    "language": "Bangla (Bangladesh)"
+  },
+  "68": {
+    "code": "bn-IN",
+    "language": "Bangla (India)"
+  },
+  "74": {
+    "code": "eu-ES",
+    "language": "Basque"
+  },
+  "76": {
+    "code": "be-BY",
+    "language": "Belarusian"
+  },
+  "87": {
+    "code": "bs-Cyrl-BA",
+    "language": "Bosnian (Cyrillic)"
+  },
+  "88": {
+    "code": "bs-Latn-BA",
+    "language": "Bosnian (Latin)"
+  },
+  "93": {
+    "code": "bg-BG",
+    "language": "Bulgarian"
+  },
+  "100": {
+    "code": "ca-ES",
+    "language": "Catalan"
+  },
+  "111": {
+    "code": "ku-Arab-IQ",
+    "language": "Central Kurdish"
+  },
+  "117": {
+    "code": "chr-Cher-US",
+    "language": "Cherokee"
+  },
+  "124": {
+    "code": "zh-CN",
+    "language": "Chinese Simp."
+  },
+  "127": {
+    "code": "zh-HK",
+    "language": "Chinese Trad. (HK, SAR)"
+  },
+  "129": {
+    "code": "zh-TW",
+    "language": "Chinese Trad. (Taiwan)"
+  },
+  "137": {
+    "code": "hr-HR",
+    "language": "Croatian"
+  },
+  "140": {
+    "code": "cs-CZ",
+    "language": "Czech"
+  },
+  "142": {
+    "code": "da-DK",
+    "language": "Danish"
+  },
+  "145": {
+    "code": "prs-AF",
+    "language": "Dari"
+  },
+  "155": {
+    "code": "nl-NL",
+    "language": "Dutch"
+  },
+  "262": {
+    "code": "en-GB",
+    "language": "English (UK)"
+  },
+  "273": {
+    "code": "et-EE",
+    "language": "Estonian"
+  },
+  "283": {
+    "code": "fil-PH",
+    "language": "Filipino"
+  },
+  "285": {
+    "code": "fi-FI",
+    "language": "Finnish"
+  },
+  "303": {
+    "code": "fr-FR",
+    "language": "French"
+  },
+  "293": {
+    "code": "fr-CA",
+    "language": "French (Canada)"
+  },
+  "346": {
+    "code": "gl-ES",
+    "language": "Galician"
+  },
+  "350": {
+    "code": "ka-GE",
+    "language": "Georgian"
+  },
+  "354": {
+    "code": "de-DE",
+    "language": "German"
+  },
+  "361": {
+    "code": "el-GR",
+    "language": "Greek"
+  },
+  "367": {
+    "code": "gu-IN",
+    "language": "Gujarati"
+  },
+  "374": {
+    "code": "ha-Latn-NG",
+    "language": "Hausa"
+  },
+  "378": {
+    "code": "he-IL",
+    "language": "Hebrew"
+  },
+  "380": {
+    "code": "hi-IN",
+    "language": "Hindi"
+  },
+  "382": {
+    "code": "hu-HU",
+    "language": "Hungarian"
+  },
+  "386": {
+    "code": "is-IS",
+    "language": "Icelandic"
+  },
+  "388": {
+    "code": "ig-NG",
+    "language": "Igbo"
+  },
+  "391": {
+    "code": "id-ID",
+    "language": "Indonesian"
+  },
+  "397": {
+    "code": "iu-Latn-CA",
+    "language": "Inuktitut"
+  },
+  "402": {
+    "code": "ga-IE",
+    "language": "Irish"
+  },
+  "404": {
+    "code": "xh-ZA",
+    "language": "isiXhosa"
+  },
+  "406": {
+    "code": "zu-ZA",
+    "language": "isiZulu"
+  },
+  "408": {
+    "code": "it-IT",
+    "language": "Italian"
+  },
+  "412": {
+    "code": "ja-JP",
+    "language": "Japanese"
+  },
+  "421": {
+    "code": "quc-Latn-GT",
+    "language": "K’iche’"
+  },
+  "434": {
+    "code": "kn-IN",
+    "language": "Kannada"
+  },
+  "443": {
+    "code": "kk-KZ",
+    "language": "Kazakh"
+  },
+  "445": {
+    "code": "km-KH",
+    "language": "Khmer"
+  },
+  "449": {
+    "code": "rw-RW",
+    "language": "Kinyarwanda"
+  },
+  "452": {
+    "code": "sw-KE",
+    "language": "Kiswahili"
+  },
+  "455": {
+    "code": "kok-IN",
+    "language": "Konkani"
+  },
+  "457": {
+    "code": "ko-KR",
+    "language": "Korean"
+  },
+  "467": {
+    "code": "ky-KG",
+    "language": "Kyrgyz"
+  },
+  "473": {
+    "code": "lo-LA",
+    "language": "Lao"
+  },
+  "477": {
+    "code": "lv-LV",
+    "language": "Latvian"
+  },
+  "484": {
+    "code": "lt-LT",
+    "language": "Lithuanian"
+  },
+  "496": {
+    "code": "lb-LU",
+    "language": "Luxembourgish"
+  },
+  "500": {
+    "code": "mk-MK",
+    "language": "Macedonian"
+  },
+  "510": {
+    "code": "ms-BN",
+    "language": "Malay (Brunei Darus.)"
+  },
+  "512": {
+    "code": "ms-MY",
+    "language": "Malay (Malaysia)"
+  },
+  "514": {
+    "code": "ml-IN",
+    "language": "Malayalam"
+  },
+  "516": {
+    "code": "mt-MT",
+    "language": "Maltese"
+  },
+  "522": {
+    "code": "mi-NZ",
+    "language": "Māori"
+  },
+  "526": {
+    "code": "mr-IN",
+    "language": "Marathi"
+  },
+  "540": {
+    "code": "mn-MN",
+    "language": "Mongolian (Cyrillic)"
+  },
+  "554": {
+    "code": "ne-NP",
+    "language": "Nepali"
+  },
+  "568": {
+    "code": "nb-NO",
+    "language": "Norwegian (Bokm&#229;l)"
+  },
+  "570": {
+    "code": "nn-NO",
+    "language": "Norwegian (Nynorsk)"
+  },
+  "577": {
+    "code": "or-IN",
+    "language": "Odia (India)"
+  },
+  "587": {
+    "code": "ps-AF",
+    "language": "Pashto"
+  },
+  "589": {
+    "code": "fa-IR",
+    "language": "Persian"
+  },
+  "591": {
+    "code": "pl-PL",
+    "language": "Polish"
+  },
+  "594": {
+    "code": "pt-BR",
+    "language": "Portuguese (Brazil)"
+  },
+  "601": {
+    "code": "pt-PT",
+    "language": "Portuguese (Portugal)"
+  },
+  "613": {
+    "code": "pa-IN",
+    "language": "Punjabi"
+  },
+  "614": {
+    "code": "pa-Arab-PK",
+    "language": "Punjabi (Arabic)"
+  },
+  "617": {
+    "code": "quz-PE",
+    "language": "Quechua"
+  },
+  "623": {
+    "code": "ro-RO",
+    "language": "Romanian"
+  },
+  "635": {
+    "code": "ru-RU",
+    "language": "Russian"
+  },
+  "662": {
+    "code": "gd-GB",
+    "language": "Scottish Gaelic"
+  },
+  "667": {
+    "code": "sr-Cyrl-BA",
+    "language": "Serbian (Cyrillic, BiH)"
+  },
+  "671": {
+    "code": "sr-Cyrl-RS",
+    "language": "Serbian (Cyrillic, Serbia)"
+  },
+  "677": {
+    "code": "sr-Latn-RS",
+    "language": "Serbian (Latin, Serbia)"
+  },
+  "682": {
+    "code": "nso-ZA",
+    "language": "Sesotho sa Leboa"
+  },
+  "685": {
+    "code": "tn-ZA",
+    "language": "Setswana"
+  },
+  "695": {
+    "code": "sd-Arab-PK",
+    "language": "Sindhi"
+  },
+  "697": {
+    "code": "si-LK",
+    "language": "Sinhala"
+  },
+  "700": {
+    "code": "sk-SK",
+    "language": "Slovak"
+  },
+  "702": {
+    "code": "sl-SI",
+    "language": "Slovenian"
+  },
+  "736": {
+    "code": "es-ES",
+    "language": "Spanish"
+  },
+  "729": {
+    "code": "es-MX",
+    "language": "Spanish (Mexico)"
+  },
+  "750": {
+    "code": "sv-SE",
+    "language": "Swedish"
+  },
+  "763": {
+    "code": "tg-Cyrl-TJ",
+    "language": "Tajik"
+  },
+  "766": {
+    "code": "ta-IN",
+    "language": "Tamil"
+  },
+  "773": {
+    "code": "tt-RU",
+    "language": "Tatar"
+  },
+  "775": {
+    "code": "te-IN",
+    "language": "Telugu"
+  },
+  "780": {
+    "code": "th-TH",
+    "language": "Thai"
+  },
+  "788": {
+    "code": "ti-ET",
+    "language": "Tigrinya"
+  },
+  "795": {
+    "code": "tr-TR",
+    "language": "Turkish"
+  },
+  "797": {
+    "code": "tk-TM",
+    "language": "Turkmen"
+  },
+  "799": {
+    "code": "uk-UA",
+    "language": "Ukrainian"
+  },
+  "804": {
+    "code": "ur-PK",
+    "language": "Urdu"
+  },
+  "806": {
+    "code": "ug-CN",
+    "language": "Uyghur"
+  },
+  "810": {
+    "code": "uz-Latn-UZ",
+    "language": "Uzbek (Latin)"
+  },
+  "820": {
+    "code": "ca-ES-valencia",
+    "language": "Valencian"
+  },
+  "823": {
+    "code": "vi-VN",
+    "language": "Vietnamese"
+  },
+  "831": {
+    "code": "guc-VE",
+    "language": "Wayuu"
+  },
+  "833": {
+    "code": "cy-GB",
+    "language": "Welsh"
+  },
+  "837": {
+    "code": "wo-SN",
+    "language": "Wolof"
+  },
+  "846": {
+    "code": "yo-NG",
+    "language": "Yoruba"
+  }
+}
