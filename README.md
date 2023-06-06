@@ -1,2 +1,2 @@
-# Microsoft-Terminology-Collection
-source xml from https://www.microsoft.com/en-us/language
+# Microsoft-Terminology-Collection-And-Style-Guides
+source from https://www.microsoft.com/en-us/language
